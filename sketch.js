@@ -18,7 +18,7 @@ var r=random(0,255);
 var g=random(0,255);
 var b=random(0,255);
 var s=random(10,40);
-fill(r,g,b,100);
+fill(r,g,b);
 noStroke();
 ellipse(x,y,s,s);
 
