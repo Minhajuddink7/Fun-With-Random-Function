@@ -18,9 +18,9 @@ var r=random(0,255);
 var g=random(0,255);
 var b=random(0,255);
 var s=random(10,40);
-fill(r,g,b);
+fill(r,g,b,100);
 noStroke();
-ellipse(x,y,s,s,100);
+ellipse(x,y,s,s);
 
 } 
 function mousePressed(){
