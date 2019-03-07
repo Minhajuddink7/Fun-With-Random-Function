@@ -1,6 +1,5 @@
 function setup() {
   // put setup code here
-var x;
 
 createCanvas(800,600);
 
